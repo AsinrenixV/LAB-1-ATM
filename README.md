@@ -8,18 +8,21 @@ To create ATM System software that will meet the needs of the applicant and help
 to withdraw money,deposit.
 ### UML DIAGRAMS:
 USECASE DIAGRAM:
-![image](https://github.com/user-attachments/assets/aef2a69b-4690-4e25-a3fe-8c9502070fdd)
+![image](https://github.com/user-attachments/assets/bb17d473-d283-4a2a-b1f2-069028ca61c7)
 ACTIVITY DIAGRAM:
-![image](https://github.com/user-attachments/assets/58cd19d1-29ae-46f0-9368-568e66d31ca1)
-CLASS DIAGRAM:
-![image](https://github.com/user-attachments/assets/2cd9d91f-271a-4521-a5ec-a5e0bf07e4c6)
-COMMUNICATION DIAGRAM:
-![image](https://github.com/user-attachments/assets/4fda5e6b-a2e3-46b5-9475-3fac2ece8960)
-PACKAGE DIAGRAM:
-![image](https://github.com/user-attachments/assets/88fa273d-aca6-4904-8e0f-c727176453e1)
-SEQUENCE DIAGRAM:
-![image](https://github.com/user-attachments/assets/ed44d7d1-dcfd-451d-a4d8-d847449a2389)
+![image](https://github.com/user-attachments/assets/61db0c0f-3cca-4b53-94e9-ef979fb1e9d3)
 
+CLASS DIAGRAM:
+![image](https://github.com/user-attachments/assets/04142b82-a3ff-4e8f-8df9-5d7e530d4149)
+
+COMMUNICATION DIAGRAM:
+![image](https://github.com/user-attachments/assets/a20fa7b6-0759-4605-a0ca-e5f522ba5760)
+
+PACKAGE DIAGRAM:
+![image](https://github.com/user-attachments/assets/f1396bfc-866c-4795-a1bd-7aec4d9c94e5)
+
+SEQUENCE DIAGRAM:
+![image](https://github.com/user-attachments/assets/ec6bc584-b0c1-4bb3-9481-4c65fd094665)
 
 
 
